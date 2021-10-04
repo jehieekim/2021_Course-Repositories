@@ -1,4 +1,4 @@
-# 모두를 위한 컴퓨터 과학 (CS 50),Intelli J를 시작하시는 분들을 위한 Intelli J 가이드
+# Intelli J를 시작하시는 분들을 위한 Intelli J 가이드
 
 분류: Devtool
 
